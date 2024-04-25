@@ -1,4 +1,4 @@
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <th>CSST104-Activities</th>
     <th>Description</th>
