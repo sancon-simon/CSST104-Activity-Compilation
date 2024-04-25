@@ -2,7 +2,7 @@
 
 CSST104-Activities
 
-<div display = "flex" justify-conten = "space-between">
+<div style = "display : flex; justify-content: space-between">
 <div>
 <ul>
 <li>
@@ -64,7 +64,7 @@ CSST104-Exercises
 </ul>
 </div>
 
-<div>
+<div style = "background-color: red">
 <p>
   oke
 </p>
