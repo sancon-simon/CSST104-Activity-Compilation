@@ -2,16 +2,17 @@
 <html lang="en">
 
 <head>
-    <title>CSST104-Activity-Compilation</title>
-    <style>
-        .flex-container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .column {
-            flex: 1;
-        }
-    </style>
+<title>CSST104-Activity-Compilation
+</title>
+<style>
+.flex-container {
+display: flex;
+justify-content: space-between;
+}
+.column {
+flex: 1;
+}
+</style>
 </head>
 
 # **CSST104-Activity-Compilation**
