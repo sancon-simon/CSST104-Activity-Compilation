@@ -1,8 +1,8 @@
 # **CSST104-Activity-Compilation**
 
-<div class = "flexmain">
+<div>
 CSST104-Activities
-  <div class = "flex1">
+  <div>
     <ul>
     <li>
       <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/tree/main/Activity_Compilation/Activity_1_Advance_Machine_Learning_(SanconS).ipynb" target = "_blank">Activity 1 - Advance Machine Learning</a>
