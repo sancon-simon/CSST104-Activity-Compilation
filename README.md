@@ -19,7 +19,32 @@ CSST104-Exercises
 <li>
   <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER1.ipynb" target = "_blank">Activity 1 - Advance Machine Learning</a>
 </li>
-  <li>
-  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER2.ipynb" target = "_blank">Activity 1 - Advance Machine Learning</a>
+  
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER2.ipynb" target = "_blank">Activity 2 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER3.ipynb" target = "_blank">Activity 3 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER4.ipynb" target = "_blank">Activity 4 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER5.ipynb" target = "_blank">Activity 5 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER6.ipynb" target = "_blank">Activity 6 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER7.ipynb" target = "_blank">Activity 7 - Advance Machine Learning</a>
+</li>
+
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER8.ipynb" target = "_blank">Activity 8 - Advance Machine Learning</a>
 </li>
 </ul>
