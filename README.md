@@ -1,7 +1,7 @@
 # **CSST104-Activity-Compilation**
 
 CSST104-Activities
-
+<div>
 <ul>
 <li>
   <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/tree/main/Activity_Compilation/Activity_1_Advance_Machine_Learning_(SanconS).ipynb" target = "_blank">Activity 1 - Advance Machine Learning</a>
@@ -60,3 +60,4 @@ CSST104-Exercises
 </li>
 
 </ul>
+</div>
