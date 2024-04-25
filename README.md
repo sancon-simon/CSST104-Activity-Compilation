@@ -1,24 +1,27 @@
-# **CSST104-Activity-Compilation**
+<h1>CSST104-Activity-Compilation**</h1>h1
 
-CSST104-Activities
+<h>CSST104-Activities</h>
 
 <ul>
 <li>
 <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/tree/main/Activity_Compilation/Activity_1_Advance_Machine_Learning_(SanconS).ipynb" target = "_blank">Activity 1 - Advance Machine Learning</a>
 </li>
+  
 <li>
 <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Activity_Compilation/Activity_2_Simple_Linear_Regression(SanconS).ipynb" target = "_blank">Activity 2 - Simple Linear Regression</a>
 </li>
+
 <li>
 <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Activity_Compilation/Activity_3_Multiple_Linear_Regression(SanconS).ipynb" target = "_blank">Activity 3 - Multiple Linear Regression</a>
 </li>
+
 <li>
 <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Activity_Compilation/Activity_4_Titanic(SanconS).ipynb" target = "_blank">Activity 4 - Titanic</a>
 </li>
-</ul>
-<div class = "flex1">
 
-CSST104-Exercises
+</ul>
+
+<h>CSST104-Exercises</h>
 
 <ul>
 <li>
