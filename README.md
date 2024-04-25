@@ -1,19 +1,6 @@
 # **CSST104-Activity-Compilation**
 
 CSST104-Activities
-<style>
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust as needed */
-    grid-gap: 10px;
-  }
-
-  .grid-item {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-  }
-</style>
 
 <div>
 <div>
@@ -78,6 +65,11 @@ CSST104-Exercises
 </div>
 
 <div background-color = "red>
+<p>
+  oke
+  oke
+  oke
+</p>
 
 </div>
 </div>
