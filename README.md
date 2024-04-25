@@ -49,10 +49,7 @@ CSST104-Exercises
 </li>
 
 <li>
-  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_EXER8.ipynb" target = "_blank">MIDTERM EXAM</a>
-</li>
-
-<li>
   <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Exercises_Compilation/3B_SANCON_MIDTERM.ipynb" target = "_blank">MIDTERM EXAM</a>
 </li>
+
 </ul>
