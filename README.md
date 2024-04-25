@@ -3,23 +3,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CSST104-Activity-Compilation</title>
-  <style>
-    .flex-container {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-    }
-    a {
-      margin: 5px;
-      padding: 10px 20px;
-      background-color: #4CAF50;
-      color: white;
-      border-radius: 5px;
-      text-decoration: none;
-      font-size: 16px;
-      cursor: pointer;
-    }
-  </style>
 </head>
 <body>
   <div class="flex-container">
