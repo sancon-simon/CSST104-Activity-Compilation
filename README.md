@@ -2,7 +2,7 @@
 
 CSST104-Activities
 
-<div>
+<div display = "flex" justify-conten = "space-between">
 <div>
 <ul>
 <li>
