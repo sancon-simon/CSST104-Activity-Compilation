@@ -1,24 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<title>CSST104-Activity-Compilation
-</title>
-<style>
-.flex-container {
-display: flex;
-justify-content: space-between;
-}
-.column {
-flex: 1;
-}
-</style>
-</head>
 
 # **CSST104-Activity-Compilation**
 
 CSST104-Activities
-
+<html>
 <div style = "display : flex; justify-content: space-between;">
 <div>
 <ul>
@@ -39,7 +23,7 @@ CSST104-Activities
 </li>
 </ul>
 
-CSST104-Exercises
+
 
 <ul>
 <li>
@@ -87,3 +71,4 @@ CSST104-Exercises
 </p>
 </div>
 </div>
+</html>
