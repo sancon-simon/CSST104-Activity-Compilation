@@ -1,6 +1,6 @@
-<table style="border-collapse: collapse;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th>CSST104-Activities</th>
+    <th style="width: 70%;">CSST104-Activities</th>
     <th>Description</th>
   </tr>
   <tr>
