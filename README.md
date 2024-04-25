@@ -1,4 +1,4 @@
-<h1>CSST104-Activity-Compilation**</h1>h1
+<h1>CSST104-Activity-Compilation</h1>
 
 <h>CSST104-Activities</h>
 
