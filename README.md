@@ -64,12 +64,9 @@ CSST104-Exercises
 </ul>
 </div>
 
-<div background-color = "red>
+<div>
 <p>
   oke
-  oke
-  oke
 </p>
-
 </div>
 </div>
