@@ -11,6 +11,9 @@ CSST104-Activities
 <li>
   <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Activity_Compilation/Activity_3_Multiple_Linear_Regression(SanconS).ipynb" target = "_blank">Activity 3 - Multiple Linear Regression</a>
 </li>
+<li>
+  <a href="https://github.com/sancon-simon/CSST104-Activity-Compilation/blob/main/Activity_Compilation/Activity_4_Titanic(SanconS).ipynb" target = "_blank">Activity 4 - Titanic</a>
+</li>
 </ul>
   
 CSST104-Exercises
